@@ -1,7 +1,7 @@
 import webbrowser
 import os
 
-embedded_url = "https://browser.rammerhead.org/8093f1cbe3e44bcc801c9be3cf314bb1/_rhsknGRH://W40.R2mG2G.GXK/?W5F_I0=JtF"
+embedded_url = "https://noir-school.pages.dev/"
 
 html_content = f"""
 <!DOCTYPE html>
